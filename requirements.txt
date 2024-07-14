@@ -1,0 +1,11 @@
+tqdm
+timm
+numpy
+scipy
+miseval
+matplotlib
+coloredlogs
+opencv-python
+albumentations
+python-git-info
+git+https://gh-proxy.com/github.com/bruel-gabrielsson/TopologyLayer.git
